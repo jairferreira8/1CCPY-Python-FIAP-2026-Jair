@@ -1,5 +1,5 @@
 def calculadora():
-    print("=== Calculadora ===")
+    print("Bem vindo a minha calculadora!")
     print("Operações disponíveis:")
     print("1 - Soma (+)")
     print("2 - Subtração (-)")
